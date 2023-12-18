@@ -1,4 +1,4 @@
-# Actividad 6 : Pruebas de particionamiento de bases de datos NoSQL
+# Actividad 4 : Pruebas de particionamiento de bases de datos NoSQL
 ## Casos de Prueba de Replicación de Bases de Datos NoSQL
 |Requisitos|Prueba|Resultado Esperado|
 |--|--|--|
